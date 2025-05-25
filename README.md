@@ -33,6 +33,7 @@ title: 기사 링크 모음
 </head>
 <body>
 
+
  <a href="https://www.hannam.ac.kr"> 한남대학교 바로가기</a>
        
  
