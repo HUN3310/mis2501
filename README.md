@@ -7,7 +7,8 @@
 <body>
  
   <h1>IT 기사 모음</h1>
-  <a hrif="https://biz.heraldcorp.com/article/10436576"> 첫번째 it 기사</a>
+  <a hrif="https://biz.heraldcorp.com/article/10436576"> 첫번째 it 기사 </a>
+  
   <ba>
   </body>
 </html>
