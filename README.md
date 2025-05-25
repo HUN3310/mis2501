@@ -7,6 +7,7 @@
 <body>
  
   <h1>IT 기사 모음</h1>
+  <a href="[https://example.com](https://biz.heraldcorp.com/article/10436576)">이동하기</a>
   [첫번째 기사](https://biz.heraldcorp.com/article/10436576)
   [두번째 기사](https://www.viva100.com/article/20250316500218)
   [세번째 기사](https://www.newsworks.co.kr/news/articleView.html?idxno=788941)
