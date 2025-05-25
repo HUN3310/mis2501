@@ -8,6 +8,7 @@
  
   <h1>IT 기사 모음</h1>
   <a hrif="https://biz.heraldcorp.com/article/10436576"> 첫번째 it 기사 </a>
+  [첫번쨰 기사](https://biz.heraldcorp.com/article/10436576)
   
   <ba>
   </body>
