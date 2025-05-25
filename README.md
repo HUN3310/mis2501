@@ -5,7 +5,10 @@
      <title>이학훈의 웹페이지</title>
 </head>
 <body>
- 
+ ---
+layout: default
+title: 기사 링크 모음
+---
   <h1>IT 기사 모음</h1>
   <a href="[https://example.com](https://biz.heraldcorp.com/article/10436576)">이동하기</a>
   [첫번째 기사](https://biz.heraldcorp.com/article/10436576)
